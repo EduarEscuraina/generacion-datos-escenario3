@@ -28,6 +28,7 @@ Estos archivos sirven como entrada para el proyecto de organización y clasifica
    - `productos.txt`
    - `ventas_Carlos.txt`
 
-## Autor
-- Eduar Escuraina  
+## Autores
+- Eduar Escuraina
+- Diego Betancur
 Ingeniería de Software - Politécnico Grancolombiano
